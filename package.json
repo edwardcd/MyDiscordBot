@@ -1,0 +1,22 @@
+{
+  "name": "mydiscordbot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardcd/MyDiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardcd/MyDiscordBot/issues"
+  },
+  "homepage": "https://github.com/edwardcd/MyDiscordBot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
